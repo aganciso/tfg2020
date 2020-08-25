@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DigiDex by Alfonso Gonzalez</string>
+    <string name="dummy_button">Comenzar</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
