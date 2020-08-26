@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">DigiDex by Alfonso Gonzalez</string>
-    <string name="dummy_button">Comenzar</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Start</string>
+    <string name="dummy_content">Press screen to start!\nDigidex version 0.1\ndeveloped by Alfonso Gonzalez</string>
+    <string name="digimon_select">Select a Digimon</string>
 </resources>
